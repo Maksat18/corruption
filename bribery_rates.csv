@@ -1,0 +1,207 @@
+Entity,Code,Year,BR_in_precentage
+Afghanistan,AFG,2013,46
+Albania,ALB,2016,34
+Algeria,DZA,2013,41
+Algeria,DZA,2016,14
+Argentina,ARG,2013,13
+Argentina,ARG,2017,16
+Armenia,ARM,2013,18
+Armenia,ARM,2016,24
+Australia,AUS,2013,1
+Australia,AUS,2017,4
+Azerbaijan,AZE,2016,38
+Bangladesh,BGD,2013,39
+Belarus,BLR,2016,20
+Belgium,BEL,2013,4
+Belgium,BEL,2016,3
+Benin,BEN,2015,26
+Bolivia,BOL,2013,36
+Bolivia,BOL,2017,28
+Bosnia and Herzegovina,BIH,2013,28
+Bosnia and Herzegovina,BIH,2016,27
+Botswana,BWA,2015,1
+Brazil,BRA,2017,11
+Bulgaria,BGR,2013,8
+Bulgaria,BGR,2016,17
+Burkina Faso,BFA,2015,11
+Burundi,BDI,2015,14
+Cambodia,KHM,2013,57
+Cambodia,KHM,2017,40
+Cameroon,CMR,2013,62
+Cameroon,CMR,2015,48
+Canada,CAN,2013,3
+Cape Verde,CPV,2015,2
+Chile,CHL,2013,10
+Chile,CHL,2017,22
+China,CHN,2017,26
+Colombia,COL,2013,22
+Colombia,COL,2017,30
+Costa Rica,CRI,2017,24
+Cote d'Ivoire,CIV,2015,34
+Croatia,HRV,2013,4
+Croatia,HRV,2016,10
+Cyprus,CYP,2013,19
+Cyprus,CYP,2016,2
+Czechia,CZE,2013,15
+Czechia,CZE,2016,9
+Democratic Republic of Congo,COD,2013,46
+Denmark,DNK,2013,1
+Dominican Republic,DOM,2017,46
+Ecuador,ECU,2017,28
+Egypt,EGY,2013,36
+Egypt,EGY,2016,50
+El Salvador,SLV,2013,12
+El Salvador,SLV,2017,31
+Estonia,EST,2013,6
+Estonia,EST,2016,5
+Eswatini,SWZ,2015,9
+Ethiopia,ETH,2013,44
+Finland,FIN,2013,1
+France,FRA,2016,2
+Georgia,GEO,2013,4
+Georgia,GEO,2016,7
+Germany,DEU,2016,3
+Ghana,GHA,2013,54
+Ghana,GHA,2015,36
+Greece,GRC,2013,22
+Greece,GRC,2016,10
+Guatemala,GTM,2017,28
+Guinea,GIN,2015,35
+Honduras,HND,2017,33
+Hong Kong,HKG,2017,2
+Hungary,HUN,2013,12
+Hungary,HUN,2016,22
+India,IND,2013,54
+India,IND,2017,69
+Indonesia,IDN,2013,36
+Indonesia,IDN,2017,32
+Iraq,IRQ,2013,29
+Israel,ISR,2013,12
+Italy,ITA,2013,5
+Italy,ITA,2016,7
+Jamaica,JAM,2013,12
+Jamaica,JAM,2017,21
+Japan,JPN,2013,1
+Japan,JPN,2017,0
+Jordan,JOR,2013,37
+Jordan,JOR,2016,4
+Kazakhstan,KAZ,2013,34
+Kazakhstan,KAZ,2016,29
+Kenya,KEN,2013,70
+Kenya,KEN,2015,37
+Kosovo,OWID_KOS,2013,16
+Kosovo,OWID_KOS,2016,10
+Kyrgyzstan,KGZ,2013,45
+Kyrgyzstan,KGZ,2016,38
+Latvia,LVA,2013,19
+Latvia,LVA,2016,15
+Lebanon,LBN,2016,28
+Lesotho,LSO,2015,5
+Liberia,LBR,2013,75
+Liberia,LBR,2015,69
+Libya,LBY,2013,62
+Lithuania,LTU,2013,26
+Lithuania,LTU,2016,24
+Madagascar,MDG,2013,28
+Madagascar,MDG,2015,16
+Malawi,MWI,2015,13
+Malaysia,MYS,2013,3
+Malaysia,MYS,2017,23
+Maldives,MDV,2013,3
+Mali,MLI,2015,18
+Mauritius,MUS,2015,1
+Mexico,MEX,2013,33
+Mexico,MEX,2017,51
+Moldova,MDA,2013,29
+Moldova,MDA,2016,42
+Mongolia,MNG,2013,45
+Mongolia,MNG,2017,20
+Montenegro,MNE,2016,16
+Morocco,MAR,2013,49
+Morocco,MAR,2016,48
+Mozambique,MOZ,2013,62
+Myanmar,MMR,2017,40
+Namibia,NAM,2015,7
+Nepal,NPL,2013,31
+Netherlands,NLD,2016,2
+New Zealand,NZL,2013,3
+Nicaragua,NIC,2017,30
+Niger,NER,2015,10
+Nigeria,NGA,2013,44
+Nigeria,NGA,2015,43
+North Macedonia,MKD,2013,17
+North Macedonia,MKD,2016,12
+Norway,NOR,2013,3
+Pakistan,PAK,2013,34
+Pakistan,PAK,2017,40
+Palestine,PSE,2013,12
+Palestine,PSE,2016,13
+Panama,PAN,2017,38
+Papua New Guinea,PNG,2013,27
+Paraguay,PRY,2013,25
+Paraguay,PRY,2017,23
+Peru,PER,2013,20
+Peru,PER,2017,39
+Philippines,PHL,2013,12
+Poland,POL,2015,7
+Portugal,PRT,2013,3
+Portugal,PRT,2016,2
+Romania,ROU,2013,17
+Romania,ROU,2016,29
+Russia,RUS,2016,34
+Rwanda,RWA,2013,13
+Senegal,SEN,2013,57
+Senegal,SEN,2015,8
+Serbia,SRB,2013,26
+Serbia,SRB,2016,22
+Sierra Leone,SLE,2013,84
+Sierra Leone,SLE,2015,41
+Slovakia,SVK,2013,21
+Slovakia,SVK,2016,12
+Slovenia,SVN,2013,6
+Slovenia,SVN,2016,3
+Solomon Islands,SLB,2013,34
+South Africa,ZAF,2013,47
+South Africa,ZAF,2015,7
+South Korea,KOR,2013,3
+South Korea,KOR,2017,3
+South Sudan,SSD,2013,39
+Spain,ESP,2013,2
+Spain,ESP,2016,3
+Sri Lanka,LKA,2013,19
+Sri Lanka,LKA,2017,15
+Sudan,SDN,2013,17
+Sudan,SDN,2016,48
+Sweden,SWE,2016,1
+Switzerland,CHE,2013,7
+Taiwan,TWN,2013,36
+Taiwan,TWN,2017,6
+Tajikistan,TJK,2016,50
+Tanzania,TZA,2013,56
+Tanzania,TZA,2015,25
+Thailand,THA,2013,18
+Thailand,THA,2017,41
+Togo,TGO,2015,26
+Tunisia,TUN,2013,18
+Tunisia,TUN,2016,9
+Turkey,TUR,2013,21
+Turkey,TUR,2016,18
+Uganda,UGA,2013,61
+Uganda,UGA,2015,38
+Ukraine,UKR,2013,37
+Ukraine,UKR,2016,38
+United Kingdom,GBR,2013,5
+United Kingdom,GBR,2016,0
+United States,USA,2013,7
+Uruguay,URY,2013,3
+Uruguay,URY,2017,22
+Uzbekistan,UZB,2016,18
+Vanuatu,VUT,2013,13
+Venezuela,VEN,2013,27
+Vietnam,VNM,2013,30
+Vietnam,VNM,2017,65
+Yemen,YEM,2013,74
+Yemen,YEM,2016,77
+Zambia,ZMB,2015,17
+Zimbabwe,ZWE,2013,62
+Zimbabwe,ZWE,2015,22
